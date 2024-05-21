@@ -19,7 +19,7 @@ cv2.destroyAllWindows()
 ## Output
 ![image](https://github.com/PuliNagaNeeraj/canny-edge-detection/assets/138849173/52596905-198f-4977-ae26-f37eb76d9c6e)
 
-![image](https://github.com/23004426/DIP_WORKSHOP3/assets/144979327/6ba46713-99d8-4847-8f72-18751e477af0)
+![image](https://github.com/PuliNagaNeeraj/canny-edge-detection/assets/138849173/74de0f37-36d6-48f1-8dad-5ad50a3535a6)
 
 ## How do different parameter settings impact the result?
 ### Different parameter settings in the Canny edge detection algorithm can significantly influence the detected edges:
