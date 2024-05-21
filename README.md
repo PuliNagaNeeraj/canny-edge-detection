@@ -17,7 +17,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ## Output
-![image](https://github.com/23004426/DIP_WORKSHOP3/assets/144979327/3ce5def9-ba97-4767-9fec-9e34c8d20a55)
+![image](https://github.com/PuliNagaNeeraj/canny-edge-detection/assets/138849173/52596905-198f-4977-ae26-f37eb76d9c6e)
 
 ![image](https://github.com/23004426/DIP_WORKSHOP3/assets/144979327/6ba46713-99d8-4847-8f72-18751e477af0)
 
