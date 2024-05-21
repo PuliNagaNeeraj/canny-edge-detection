@@ -5,7 +5,7 @@ Implementation of the Canny edge detection algorithm on a sample image to obtain
 ### Register Number : 212223240130
 
 ## Code :
-
+```
 import cv2
 import numpy as np
 image = cv2.imread('flower.jpg', 0)  # Reading the image in grayscale mode
@@ -15,7 +15,7 @@ cv2.imshow('Original Image', image)
 cv2.imshow('Canny Edges', edges)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-
+```
 ## Output
 ![image](https://github.com/23004426/DIP_WORKSHOP3/assets/144979327/3ce5def9-ba97-4767-9fec-9e34c8d20a55)
 
